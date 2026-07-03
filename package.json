@@ -19,8 +19,7 @@
     "react-dom": "19.2.4",
     "tailwind-merge": "^3.6.0",
     "zod": "^4.4.3",
-    "@next/font": "^16.2.10",
-    "@next/font/google": "^16.2.10"
+    "@next/font": "^16.2.10"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
